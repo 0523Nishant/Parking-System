@@ -21,81 +21,14 @@ Online Parking System Using Spring Boot H2-Database & MySQL Database
 ## Installation
 - Just, Clone this repository - 
 ````bash 
-git clone https://github.com/SLoharkar/Online-Parking-System.git
+git clone https://github.com/0523Nishant/Parking-System
 ````
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
 
 
-## Website Trailer
-
-https://github.com/SLoharkar/Online-Parking-System/assets/68845746/108942d7-28f3-4c59-bb37-2e3c906bb931
 
 
-## Website Highlights
-<p align="left" width="100%">
 
-<img width="32%" src="Screenshots/1.png">
-  
-<img width="32%" src="Screenshots/2.png">
-
-<img width="32%" src="Screenshots/3.png">
-
-<img width="32%" src="Screenshots/4.png">
-
-<img width="32%" src="Screenshots/5.png">
-
-<img width="32%" src="Screenshots/6.png">
-
-<img width="32%" src="Screenshots/7.png">
-
-<img width="32%" src="Screenshots/8.png">
-
-<img width="32%" src="Screenshots/9.png">
-
-<img width="32%" src="Screenshots/10.png">
-
-<img width="32%" src="Screenshots/11.png">
-
-<img width="32%" src="Screenshots/12.png">
-
-<img width="32%" src="Screenshots/13.png">
-
-<img width="32%" src="Screenshots/14.png">
-
-<img width="32%" src="Screenshots/15.png">
-
-<img width="32%" src="Screenshots/16.png">
-
-<img width="32%" src="Screenshots/17.png">
-
-<img width="32%" src="Screenshots/18.png">
-
-<img width="32%" src="Screenshots/19.png">
-
-<img width="32%" src="Screenshots/20.png">
-
-<img width="32%" src="Screenshots/21.png">
-
-<img width="32%" src="Screenshots/22.png">
-
-<img width="32%" src="Screenshots/23.png">
-
-<img width="32%" src="Screenshots/24.png">
-
-<img width="32%" src="Screenshots/25.png">
-
-<img width="32%" src="Screenshots/26.png">
-
-<img width="32%" src="Screenshots/27.png">
-
-<img width="32%" src="Screenshots/28.png">
-
-<img width="32%" src="Screenshots/29.png">
-
-<img width="32%" src="Screenshots/30.png">
-
-
-</p>
 
 
 ## Dependencies
